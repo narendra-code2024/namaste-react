@@ -1,0 +1,17 @@
+# Parcel
+- Dev Build
+- Local Server
+- HMR = Hot Module Replacement
+- Caching - Faster Builds
+- Image Optiomization
+- Minification
+- Bundling
+- Compress
+- Consistent Hashing
+- Code Splitting
+- Differential Bundling - support for old browsers
+- Diagnostic
+- Error Handling
+- HTTPs
+- Tree Shaking - remove unused code
+- Different dev and prod builds
